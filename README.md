@@ -1,2 +1,2 @@
-# React-Props-PracticeNotWorking
+# React-SpreadOperator-PracticeNotWorking
 Created with CodeSandbox
